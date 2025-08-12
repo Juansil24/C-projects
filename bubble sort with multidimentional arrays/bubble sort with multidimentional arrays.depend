@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1751429941 source:c:\users\juanjose\onedrive\desktop\coding\bubble sort with multidimentional arrays\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

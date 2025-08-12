@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1751315634 source:c:\users\juanjose\onedrive\desktop\coding\circunferencia de un circulo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

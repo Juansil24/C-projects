@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1754348432 source:c:\users\juanjose\onedrive\desktop\coding\caso de estudio structs\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"poker.h"
+
+1754343393 c:\users\juanjose\downloads\libreria poker\poker.h
+	<stdio.h>
+	<string.h>
+

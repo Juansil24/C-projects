@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1751350341 source:c:\users\juanjose\onedrive\desktop\coding\niveles de contaminacion atmosferica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
